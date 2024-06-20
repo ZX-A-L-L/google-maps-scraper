@@ -22,8 +22,8 @@ function getInput(controls) {
     controls
         .listOfTexts('queries', {
             isDisabled: hasCountry,
-            defaultValue: ["Web Developers in Bangalore"],
-            placeholder: "Web Developers in Bangalore",
+            defaultValue: ["orthodontist in Chicago IL"],
+            placeholder: "orthodontist in Chicago IL",
             label: 'Search Queries', 
             isRequired: true
         })
@@ -34,7 +34,7 @@ function getInput(controls) {
                     options: CountryOptions,
                 })
                 .text('business_type', {
-                    placeholder: "Web Developers",
+                    placeholder: "orthodontist",
                     isRequired: hasCountry
                 }
                 )
