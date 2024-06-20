@@ -1,4 +1,4 @@
-country_code_to_cities = {"HT":["cap-haitien","carrefour","croix-des-bouquets","delmas 73","desarmes","fond parisien","gonaives","grangwav","gressier","hinche","jacmel","jeremie","kenscoff","lenbe","leogane","les cayes","miragoane","petionville","port-au-prince","port-de-paix","saint-marc","saint-raphael","thomazeau","ti port-de-paix","tigwav","verrettes"],"US":[""New York NY",
+country_code_to_cities = {"HT":["cap-haitien","carrefour","croix-des-bouquets","delmas 73","desarmes","fond parisien","gonaives","grangwav","gressier","hinche","jacmel","jeremie","kenscoff","lenbe","leogane","les cayes","miragoane","petionville","port-au-prince","port-de-paix","saint-marc","saint-raphael","thomazeau","ti port-de-paix","tigwav","verrettes"],"US":["New York NY",
 "Los Angeles CA",
 "Chicago IL",
 "Houston TX",
